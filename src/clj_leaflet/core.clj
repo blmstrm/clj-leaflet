@@ -11,6 +11,7 @@
  (some #(= i %) coll))
 
 (defn remove-words
+  "Removes unwanted words from string list."
   [ss]
   (remove #(in? noisy-words %) ss))
 
