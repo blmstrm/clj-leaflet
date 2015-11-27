@@ -3,7 +3,7 @@
   )
 
 
-(def noisy-words ["the" "featuring" "feat." "ft." "f/" "&" "Radio edit" ","])
+(def noisy-words ["the" "featuring" "feat." "ft." "f/" "&" "radio edit" ","])
 
 (defn in?
  "Returns true if item i is in collection coll" 
