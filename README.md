@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/blmstrm/clj-leaflet.svg?branch=master)](https://travis-ci.org/blmstrm/clj-leaflet)
 [![Clojars](https://img.shields.io/clojars/v/clj-leaflet.svg)](http://clojars.org/clj-leaflet)
+[![Dependencies
+Status](https://jarkeeper.com/blmstrm/clj-leaflet/status.svg)](https://jarkeeper.com/blmstrm/clj-leaflet)
 # clj-leaflet
 
 A small library to generate useful search strings when searching for music
